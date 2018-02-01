@@ -1,4 +1,4 @@
-package com.segni.sec;
+package com.sec.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

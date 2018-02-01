@@ -1,4 +1,4 @@
-package com.segni.sec;
+package com.sec.main;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

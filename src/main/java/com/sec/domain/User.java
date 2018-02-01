@@ -3,7 +3,7 @@ package com.sec.domain;
 import java.util.Objects;
 
 public class User {
-        private String firstName;
+    private String firstName;
     private String lastName;
     private String sex;
 
